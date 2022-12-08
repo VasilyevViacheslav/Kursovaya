@@ -1,0 +1,2 @@
+# Kursovaya
+Dynamic Triangle Info
